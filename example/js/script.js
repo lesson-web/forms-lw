@@ -5,7 +5,7 @@ $(document).ready(function(){
     'color-error': 'tomato',
     'number-of-parents': 0,
     'post-file' : 'post.php',
-    'emails' : 'email@mail.ru',
-    'from' : 'from@mail.ru',
+    'emails' : 'info@lesson-web.ru',
+    'from' : 'petrovaleksandr1992@list.ru',
   });
 });

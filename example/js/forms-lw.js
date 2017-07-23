@@ -61,7 +61,7 @@
         }
 
       });
-
+ 
 
       input_result=JSON.stringify(input_result);
 
@@ -74,6 +74,7 @@
           {
             title: title,
             emails: emails,
+            from: from,
             input_result: input_result,
           },function(result){
             form.find('.form-lw-thanks').show();

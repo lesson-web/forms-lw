@@ -26,5 +26,4 @@ if(mail($to, $subject, $message, $headers)){
 }
 
 
-
 ?>
